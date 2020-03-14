@@ -1,2 +1,2 @@
 # Web
-html and css
+HTML only
