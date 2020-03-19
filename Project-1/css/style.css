@@ -25,3 +25,26 @@
 {
     color: #007bff!important;
 }
+.navbar
+{
+    background: #fff;
+}
+.navbar-toggler
+{
+    border: none!important;
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+.navbar-nav
+{
+    margin-left: auto!important;
+}
+  #slider
+  {
+      width: 100%;
+  }
+  .ca
