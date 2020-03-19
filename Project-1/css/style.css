@@ -62,9 +62,11 @@ navbar-nav
 }
 .carousel-caption
 {
-    top: 5%;
+    top: 10%;
     transform: translateY(-50%);
     bottom: initial!important;
+    
+
 }
 #carousel-caption
 {
@@ -74,8 +76,11 @@ navbar-nav
 }
 .carousel-caption h5
 { 
-    color: lightblue;
+    color: rgb(218, 203, 203);
     font-size: 40px;
+    font-weight: bolder;
+    border: #555;
+    text-shadow: aqua;
 }
 #carousel-caption h5
 { 
