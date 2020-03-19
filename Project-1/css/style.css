@@ -4,8 +4,11 @@
     padding: 0;
 
 }
+nav.nav.navbar {
+    background-color: rgb(118, 80, 255);
+}
 body{
-    background-color: rgb(220, 245, 221);
+    background-color: coral;
 }
 /*-----Navigation----*/
 #nav-bar
@@ -60,6 +63,8 @@ navbar-nav
 {
     width: 100% ;
 }
+
+/*
 .carousel-caption
 {
     top: 10%;
@@ -68,22 +73,28 @@ navbar-nav
     
 
 }
-#carousel-caption
-{
-    top: 3%;
-    transform: translate(-55%);
-    bottom: initial!important;
-}
 .carousel-caption h5
 { 
-    color: rgb(218, 203, 203);
-    font-size: 40px;
+    color: rgb(247, 238, 238);
+    font-size: 50px;
+    text-align: center;
     font-weight: bolder;
     border: #555;
     text-shadow: aqua;
+    text-transform: capitalize;
 }
 #carousel-caption h5
 { 
     color: lightslategray;
+    text-align: center;
     font-size: 30px;
 }
+#OurFather{
+    font-family: Arial, Helvetica,"Times New Roman" sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+*/
